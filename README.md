@@ -8,7 +8,7 @@ Projeto de uma calculadora para churrasco fornecendo a quantidade de comida e be
  Criei um pequeno delay para realizar a função de calcular, usando também as famosas arrow functions
  Em suma, esse exercício  rápido foi fundamental para praticar o aprendido com Javascript, fiquei extremamente realizada com o resultado.
 
- [Clique aqui para acessar](https://playerszone.github.io/nlw-esports-explorer/)
+ [Clique aqui para acessar](https://playerszone.github.io/churrascometro)
 
 ##  ⚙️ Tecnologias
 
